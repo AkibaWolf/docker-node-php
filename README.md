@@ -4,7 +4,8 @@
 
 ## Supported tags and respective `Dockerfile` links
 
-- [`10-7.4`, `latest` (_Dockerfile_)](https://github.com/AkibaWolf/docker-node-php/tree/master/10-7.4/Dockerfile)
+- [`12-7.4`, `latest` (_Dockerfile_)](https://github.com/AkibaWolf/docker-node-php/tree/master/12-7.4/Dockerfile)
+- [`10-7.4` (_Dockerfile_)](https://github.com/AkibaWolf/docker-node-php/tree/master/10-7.4/Dockerfile)
 
 ## Pre-installed packages
 
