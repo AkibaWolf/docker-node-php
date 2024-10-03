@@ -4,7 +4,8 @@
 
 ## Supported tags and respective `Dockerfile` links
 
-- [`20-8.2`, `latest` (_Dockerfile_)](https://github.com/AkibaWolf/docker-node-php/tree/master/20-8.2/Dockerfile)
+- [`20-8.3`, `latest` (_Dockerfile_)](https://github.com/AkibaWolf/docker-node-php/tree/master/20-8.3/Dockerfile)
+- [`20-8.2` (_Dockerfile_)](https://github.com/AkibaWolf/docker-node-php/tree/master/20-8.2/Dockerfile)
 - [`18-8.2` (_Dockerfile_)](https://github.com/AkibaWolf/docker-node-php/tree/master/18-8.2/Dockerfile)
 - [`17-8.1` (_Dockerfile_)](https://github.com/AkibaWolf/docker-node-php/tree/master/17-8.1/Dockerfile)
 - [`12-8.1` (_Dockerfile_)](https://github.com/AkibaWolf/docker-node-php/tree/master/12-8.1/Dockerfile)
